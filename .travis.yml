@@ -15,7 +15,12 @@ jdk:
   on:
     tags: true
     branch: tag
-    repo: <your_github_username>/<your_repo_name>
+    repo: Abyss-of-Dragon/Travis_CI_Tutorial
+    
+    notifications:
+ email:
+   - 10195101542@stu.ecnu.edu.cn
+
 
 after_success:
   - bash <(curl -s https://codecov.io/bash)
