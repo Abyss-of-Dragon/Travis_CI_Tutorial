@@ -1,4 +1,6 @@
 [![Build Status](https://travis-ci.com/Abyss-of-Dragon/Travis_CI_Tutorial.svg?branch=main)](https://travis-ci.com/Abyss-of-Dragon/Travis_CI_Tutorial)
+[![codecov](https://codecov.io/gh/Abyss-of-Dragon/Travis_CI_Tutorial/branch/main/graph/badge.svg?token=MUHMGDJY1M)](https://codecov.io/gh/Abyss-of-Dragon/Travis_CI_Tutorial)
+
 # How to Use Travis CI with Java on GitHub
 This repository is a demo of how to use [Travis CI](https://docs.travis-ci.com/) in a Java project on GitHub.
 
